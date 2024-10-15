@@ -23,14 +23,14 @@ This is a simple REST API built with pure Node.js. It uses the HTTP and FS (File
 
 1. Clone the repository:
 
-   Run the following comand in cm or any terminal of your choice: (VS code terminal recomended)
+   Run the following command in cm or any terminal of your choice: (VS code terminal recommended)
    
    git clone https://github.com/lwandile9/crud-rest-api-app.git
 
-2. open thw folder using VS code and Run the following comands
+2. open the folder using VS code and Run the following commands
 
     npm install   - this will install dependencies ( not required in this project though  )
-   to start the server   run this  comand : node index.js ( this will provoke node to run the file )
+   to start the server   run this  command: node index.js ( this will provoke node to run the file )
 
    The API will be available at http://localhost:10111.
 
